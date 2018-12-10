@@ -53,13 +53,14 @@ search项目为普通Springboot项目，下载后将源码导入到IDE，在Sear
 
 #### 六、系统截图
 ##### - 数据库搜索截图
-![image](https://images.gitee.com/uploads/images/2018/1201/143608_34472cc3_499215.png)
-![image](https://images.gitee.com/uploads/images/2018/1201/141747_452537ad_499215.png)
-![image](https://images.gitee.com/uploads/images/2018/1201/141756_e5dd6af9_499215.png)
-![image](https://images.gitee.com/uploads/images/2018/1201/141946_cf041593_499215.png)
+![image](https://github.com/11230595/search/blob/master/images/1.png)
+![image](https://github.com/11230595/search/blob/master/images/2.png)
 ##### - 文件搜索截图
-![image](https://images.gitee.com/uploads/images/2018/1201/141958_d39a76cd_499215.png)
-![image](https://images.gitee.com/uploads/images/2018/1201/142011_784d8f11_499215.png)
+![image](https://github.com/11230595/search/blob/master/images/3.png)
+![image](https://github.com/11230595/search/blob/master/images/4.png)
 
 #### 七、联系开发者
 ```zhoudong611@163.com```
+
+#### 八、关注公众号
+![image](https://github.com/11230595/search/blob/master/images/5.jpeg)
